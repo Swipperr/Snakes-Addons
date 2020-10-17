@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "better_foxes:block/skuld_portal_ew"
+    },
+    "axis=x": {
+      "model": "better_foxes:block/skuld_portal_ns"
+    }
+  }
+}

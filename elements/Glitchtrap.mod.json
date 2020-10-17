@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "potyutyry",
+    "name": "Glitchtrap's Disc",
+    "description": "Listen To Tune's TM",
+    "creativeTab": {
+      "value": "CUSTOM:Snakesaddons"
+    },
+    "music": {
+      "value": "CUSTOM:glitchy"
+    },
+    "specialInfo": [
+      "Encrypted"
+    ],
+    "hasGlow": true
+  }
+}

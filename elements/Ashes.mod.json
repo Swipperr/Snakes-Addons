@@ -1,0 +1,20 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "fdff",
+    "name": "Ashes",
+    "description": "Sure.",
+    "creativeTab": {
+      "value": "CUSTOM:Snakesaddons"
+    },
+    "music": {
+      "value": "CUSTOM:stellar-ashes"
+    },
+    "specialInfo": [
+      "It Seem's Burnt Down By Fire",
+      "What Would It Sound like?"
+    ],
+    "hasGlow": true
+  }
+}

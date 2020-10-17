@@ -1,0 +1,56 @@
+{
+  "glitchtrap": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "better_foxes:fnaf_vr_help_wanted_glitchtrap_song_glitchtrap_rockit_gaming",
+        "stream": true
+      }
+    ]
+  },
+  "cat": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "better_foxes:fnaf_vr_help_wanted_glitchtrap_song_glitchtrap_rockit_gaming",
+        "stream": true
+      }
+    ]
+  },
+  "glitchy": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "better_foxes:glitchtrap",
+        "stream": true
+      }
+    ]
+  },
+  "stellar-ashes": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "better_foxes:ashes_-_stellar_official_lyric_video",
+        "stream": true
+      }
+    ]
+  },
+  "nana_disc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "better_foxes:retad",
+        "stream": true
+      }
+    ]
+  },
+  "s-s-s-sans": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "better_foxes:nmwetjfbvifnkfjlg",
+        "stream": true
+      }
+    ]
+  }
+}

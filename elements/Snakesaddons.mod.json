@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Snakesaddons",
+    "icon": {
+      "value": "CUSTOM:Tabplaceholder"
+    },
+    "showSearch": false
+  }
+}

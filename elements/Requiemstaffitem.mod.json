@@ -1,0 +1,41 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "imported_piskel9",
+    "customModelName": "Normal",
+    "name": "REQUIEMO!",
+    "specialInfo": [
+      "Seem's Like It's...... Magical......... And Empowered!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Snakesaddons"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.blaze.shoot"
+    },
+    "hasGlow": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 20.0,
+    "bulletDamage": 30.0,
+    "bulletKnockback": 30,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:StaffCharge"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "RequiemstaffitemBulletHitsBlock"
+    }
+  }
+}

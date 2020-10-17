@@ -1,0 +1,21 @@
+{
+  "_fv": 10,
+  "_type": "fluid",
+  "definition": {
+    "name": "Portalwater",
+    "textureStill": "imported_piskel18",
+    "textureFlowing": "imported_piskel18",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "spawnWorldTypes": [
+      "Surface"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "better_foxes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "better_foxes:staff_charge",
+    "count": 1
+  }
+}

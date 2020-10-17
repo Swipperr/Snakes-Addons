@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "better_foxes:blocks/e",
+    "up": "better_foxes:blocks/e",
+    "north": "better_foxes:blocks/e",
+    "east": "better_foxes:blocks/e",
+    "south": "better_foxes:blocks/e",
+    "west": "better_foxes:blocks/e",
+    "particle": "better_foxes:blocks/e"
+  }
+}

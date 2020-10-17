@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "banananannaaaa",
+    "name": "Bananannnanananadisc",
+    "description": "You Can Hear Faint Remnant's Of The Song \"Im A Banna!!! Im A Banana!!!!!\"",
+    "creativeTab": {
+      "value": "CUSTOM:Snakesaddons"
+    },
+    "music": {
+      "value": "CUSTOM:nana_disc"
+    },
+    "specialInfo": [
+      "No..... NOOOOOOOOOOOOOOOOOOO"
+    ],
+    "hasGlow": true
+  }
+}

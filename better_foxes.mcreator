@@ -1,0 +1,375 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "IdiotsandwitchSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "idiotsandwitch_sword"
+    },
+    {
+      "name": "IdiotsandwitchSwordRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "idiotsandwitch_sword_recipe"
+    },
+    {
+      "name": "Glitchtrap",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glitchtrap"
+    },
+    {
+      "name": "Ashes",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ashes"
+    },
+    {
+      "name": "Bananannnanananadisc",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bananannnanananadisc"
+    },
+    {
+      "name": "SANS",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sans"
+    },
+    {
+      "name": "Snakesaddons",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snakesaddons"
+    },
+    {
+      "name": "Redlaserore",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redlaserore"
+    },
+    {
+      "name": "EmeraldWire",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_wire"
+    },
+    {
+      "name": "FunnyBoneEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "funny_bone_entity_swings_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FunnyBone",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "funny_bone"
+    },
+    {
+      "name": "Staffstan",
+      "type": "gun",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "staffstan"
+    },
+    {
+      "name": "StaffCharge",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "staff_charge"
+    },
+    {
+      "name": "Sexyapple",
+      "type": "food",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sexyapple"
+    },
+    {
+      "name": "Staffrecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "staffrecipe"
+    },
+    {
+      "name": "Staffchargerec",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "staffchargerec"
+    },
+    {
+      "name": "Fullstaff",
+      "type": "gun",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fullstaff"
+    },
+    {
+      "name": "Emptystaffrec",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emptystaffrec"
+    },
+    {
+      "name": "Requiemstaff",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "requiemstaff"
+    },
+    {
+      "name": "Requiemstaffitem",
+      "type": "gun",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "requiemstaffitem"
+    },
+    {
+      "name": "RequiemstaffitemBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "requiemstaffitem_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tabplaceholder",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tabplaceholder"
+    },
+    {
+      "name": "Portalwater",
+      "type": "fluid",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "portalwater"
+    },
+    {
+      "name": "E",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e"
+    },
+    {
+      "name": "Skuld",
+      "type": "dimension",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skuld"
+    },
+    {
+      "name": "SteelandflintRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelandflint_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Steelandflint",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelandflint"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "glitchtrap",
+      "file": "fnaf_vr_help_wanted_glitchtrap_song_glitchtrap_rockit_gaming",
+      "category": "record"
+    },
+    {
+      "name": "cat",
+      "file": "fnaf_vr_help_wanted_glitchtrap_song_glitchtrap_rockit_gaming",
+      "category": "record"
+    },
+    {
+      "name": "glitchy",
+      "file": "glitchtrap",
+      "category": "record"
+    },
+    {
+      "name": "stellar-ashes",
+      "file": "ashes_-_stellar_official_lyric_video",
+      "category": "record"
+    },
+    {
+      "name": "nana_disc",
+      "file": "retad",
+      "category": "record"
+    },
+    {
+      "name": "s-s-s-sans",
+      "file": "nmwetjfbvifnkfjlg",
+      "category": "record"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.better_foxes.fullstaff": "Empty Staff",
+      "item.better_foxes.sans": "SANS",
+      "item.better_foxes.staffstan": "Empty Staff",
+      "item.better_foxes.bananannnanananadisc.desc": "You Can Hear Faint Remnant\u0027s Of The Song \"Im A Banna!!! Im A Banana!!!!!\"",
+      "item.better_foxes.ashes": "Ashes",
+      "item.better_foxes.ashes.desc": "Sure.",
+      "item.better_foxes.staff_charge": "Staff Charge",
+      "itemGroup.tabsnakesaddons": "Snakesaddons",
+      "item.better_foxes.requiemstaffitem": "REQUIEMO!",
+      "item.better_foxes.skuld": "Skuld Portal Igniter",
+      "item.better_foxes.emerald_wire": "Emerald Wire",
+      "item.better_foxes.glitchtrap.desc": "Listen To Tune\u0027s TM",
+      "item.better_foxes.bananannnanananadisc": "Bananannnanananadisc",
+      "item.better_foxes.tabplaceholder": "Tabplaceholder",
+      "item.better_foxes.portalwater_bucket": "Portalwater Bucket",
+      "item.better_foxes.funny_bone": "Funny Bone",
+      "item.better_foxes.steelandflint": "Steel and flint",
+      "block.better_foxes.e": "E",
+      "item.better_foxes.sexyapple": "Sexy apple",
+      "item.better_foxes.glitchtrap": "Glitchtrap\u0027s Disc",
+      "item.better_foxes.redlaserore": "Redstone Wire",
+      "fluid.portalwater": "Portalwater",
+      "item.better_foxes.idiotsandwitch_sword": "ver hevy sword also ver sharp",
+      "item.better_foxes.sans.desc": "Dua A DU"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "better_foxes",
+    "modName": "Ezy foxes",
+    "version": "1.0.0",
+    "author": "seths, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "firi",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

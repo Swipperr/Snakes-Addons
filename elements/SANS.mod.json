@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sans",
+    "name": "SANS",
+    "description": "Dua A DU",
+    "creativeTab": {
+      "value": "CUSTOM:Snakesaddons"
+    },
+    "music": {
+      "value": "CUSTOM:s-s-s-sans"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

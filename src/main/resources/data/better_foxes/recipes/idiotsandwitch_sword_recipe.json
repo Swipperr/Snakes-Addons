@@ -1,0 +1,36 @@
+{
+  "group": "better_foxes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_sword"
+    },
+    "3": {
+      "item": "better_foxes:redlaserore"
+    },
+    "4": {
+      "item": "minecraft:diamond_sword"
+    },
+    "5": {
+      "item": "better_foxes:emerald_wire"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    },
+    "8": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "better_foxes:idiotsandwitch_sword",
+    "count": 1
+  }
+}

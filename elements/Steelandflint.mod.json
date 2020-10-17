@@ -1,0 +1,31 @@
+{
+  "_fv": 10,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "steal_and_flint",
+    "customModelName": "Tool",
+    "name": "Steel and flint",
+    "creativeTab": {
+      "value": "CUSTOM:Snakesaddons"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 1,
+    "onRightClickedOnBlock": {
+      "name": "SteelandflintRightClickedOnBlock"
+    }
+  }
+}

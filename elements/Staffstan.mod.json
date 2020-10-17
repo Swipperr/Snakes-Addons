@@ -1,0 +1,38 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "imported_piskel_staff",
+    "customModelName": "Normal",
+    "name": "Empty Staff",
+    "specialInfo": [
+      "Seem's Like It's...... Magical......... But Empty"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Snakesaddons"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Blocks.VOID_AIR"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.blaze.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 6.0,
+    "bulletDamage": 14.0,
+    "bulletKnockback": 10,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Items.FIRE_CHARGE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

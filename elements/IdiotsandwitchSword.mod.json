@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "fgg",
+    "customModelName": "Normal",
+    "name": "ver hevy sword also ver sharp",
+    "specialInfo": [
+      "u are a idiot"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1000,
+    "efficiency": 1000.0,
+    "attackSpeed": 100.0,
+    "enchantability": 1000,
+    "damageVsEntity": 100000.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
